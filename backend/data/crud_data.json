@@ -1,0 +1,22 @@
+[
+  {
+    "id": "1744279619586",
+    "name": "Arun kumar",
+    "email": "arun@gmail.com",
+    "createdAt": "2025-04-10T10:06:59.586Z"
+  },
+  {
+    "id": "1744279636801",
+    "name": "ankur singh",
+    "email": "ankur44@gmail.com",
+    "createdAt": "2025-04-10T10:07:16.801Z",
+    "updatedAt": "2025-04-10T10:07:25.282Z"
+  },
+  {
+    "id": "1744279931874",
+    "name": "ashish",
+    "email": "ash44i@gmail.com",
+    "createdAt": "2025-04-10T10:12:11.874Z",
+    "updatedAt": "2025-04-10T10:12:17.667Z"
+  }
+]
